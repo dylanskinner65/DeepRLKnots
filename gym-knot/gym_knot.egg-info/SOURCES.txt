@@ -1,0 +1,9 @@
+setup.py
+gym_knot/__init__.py
+gym_knot.egg-info/PKG-INFO
+gym_knot.egg-info/SOURCES.txt
+gym_knot.egg-info/dependency_links.txt
+gym_knot.egg-info/requires.txt
+gym_knot.egg-info/top_level.txt
+gym_knot/envs/__init__.py
+gym_knot/envs/sliceenv.py
